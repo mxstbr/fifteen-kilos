@@ -1,0 +1,15 @@
+{
+  "name": "fifteen-kilos",
+  "version": "1.0.0",
+  "description": "Fifteen kilos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fifteen",
+    "kilos"
+  ],
+  "author": "Max Stoiber <contact@mxstbr.com> (http://mxstbr.com)",
+  "license": "MIT"
+}
