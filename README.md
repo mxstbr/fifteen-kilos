@@ -32,6 +32,20 @@ plugins: [
 
 > Wrote a plugin for another build system? Please submit a PR adding it to the README!
 
+### React Plugin
+
+Also thanks to @markdalgleish, you can now get the magic of `fifteen-kilos` in your React app automatically! ⚛
+
+Simply `npm install --save-dev react-fifteen-kilos` and then use it to decorate React:
+
+```JS
+import React from 'react'
+import fifteenKilos from 'react-fifteen-kilos'
+fifteenKilos(React)
+```
+
+> Wrote a plugin for another UI library? Please submit a PR adding it to the README!
+
 ## Contributions
 
 Contributions for this library are very much encouraged. Please submit PRs with either failing test cases to report a bug or an implemented feature to showcase why we need to merge that feature.
