@@ -46,6 +46,12 @@ fifteenKilos(React)
 
 > Wrote a plugin for another UI library? Please submit a PR adding it to the README!
 
+### Live Demo
+
+Now you can test live fifteen-kilos demo app:
+
+[live demo](https://sm-react.github.io/storybook-addon-material-ui/?theme-ind=3&theme-sidebar=true&selectedKind=Compatible%20Projects&selectedStory=fifteen-kilos&full=0&down=1&left=1&panelRight=0&downPanel=sm%2Fstorybook-addon-material-ui%2Fmaterial-panel) with themes support
+
 ## Contributions
 
 Contributions for this library are very much encouraged. Please submit PRs with either failing test cases to report a bug or an implemented feature to showcase why we need to merge that feature.
